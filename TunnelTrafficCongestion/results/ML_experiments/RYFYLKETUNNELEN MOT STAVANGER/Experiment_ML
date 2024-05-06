@@ -1,0 +1,35 @@
+Model Name: Linear Regression
+
+Predicting for : Experiment with Rush hour
+MAE: 65.32187596446302
+MSE: 6550.929991953508
+RMSE: 80.93781558674232
+
+Model Name: Random Forest
+
+Predicting for : Experiment with Rush Hour
+MAE: 65.995148990866
+MSE: 6581.791691568989
+RMSE: 81.12824225612798
+
+Model Name: Linear Regression
+
+Predicting for : Experiment with Dag_encoded, Season_encoded
+MAE: 68.41731023180546
+MSE: 6748.570625224035
+RMSE: 82.14968426734235
+
+Model Name: Random Forest
+
+Predicting for : Experiment with Dag_encoded, Season_encoded
+MAE: 68.62615197209193
+MSE: 6704.443250270401
+RMSE: 81.8806646911858
+
+Model Name: Multioutput regressor
+
+Features: Trafikkmengde, Gjennomsnittshastighet
+MAE: [68.62615197  4.58305171]
+MSE: [6704.44325027   43.36575958]
+RMSE: [81.88066469  6.58526838]
+

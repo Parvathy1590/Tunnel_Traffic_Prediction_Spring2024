@@ -1,0 +1,7 @@
+{
+    "data_raw_path": "data/Raw/",
+    "data_processed_path": "data/Processed/",
+    "result_path": "results/ML_experiments/",
+    "analysis_path": "Data Analysis and Visualisation/Output Visualised graphs/"
+  }
+  
